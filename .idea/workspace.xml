@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b494c0-9c86-43b4-bf57-e9b6d27a21b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTransform_Training/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTransformation_Prediction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypeValidation_Insertion_Prediction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypeValidation_Insertion_Training/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training_Raw_data_validation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application_logging/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/best_model_finder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_ingestion/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_preprocessing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_operations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/docker_herko_deployment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker_heroku.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker_heroku.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker_heroku.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker_heroku.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_script.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
